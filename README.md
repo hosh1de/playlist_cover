@@ -2,6 +2,6 @@
 ## Описание ## 
 Это моя первая работа в качестве frontend-developer<br/>
 Простой сайт со статической версткой, примитивными тегами и свойствами<br/>
-Можно открыть его по <a href="https://hosh1de.github.io/playlist_cover/" target="_blank">ссылке</a>
+Можно открыть его по [ссылке](https://hosh1de.github.io/playlist_cover/)
 ## Как это выглядит ##
 ![Скриншот страницы](https://i.ibb.co/0B91Xs4/2023-01-30-04-26-31.png)
